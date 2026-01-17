@@ -1,0 +1,32 @@
+{
+  "name": "Eksipnos Education Consultancy",
+  "short_name": "Eksipnos",
+  "description": "Distance & Online Education - MBA, MCA, BBA, BCA. Live classes, study materials & career counseling.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#6366f1",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/favicon.png",
+      "sizes": "64x64",
+      "type": "image/png"
+    },
+    {
+      "src": "/logo.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["education", "business"],
+  "lang": "en",
+  "dir": "ltr"
+}
